@@ -13,9 +13,16 @@ Features
 3- Informs the user of various statistics based on filters provided by the user
 4- If user chooses to, they are able to view raw data based on provided filters
 
+
 Files used
 Three csv files with data for three cities- chicago.csv, new_york_city.csv, washington.csv.
 One python file written to assess the data in the csv files- bikeshare.py.
+
+Resources
+1-Stackoverflow
+2-Python documentation
+3-Tutorials Point
+4-Pandas Documentation.
 
 Resources
 1-Stackoverflow
