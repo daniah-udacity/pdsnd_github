@@ -1,7 +1,7 @@
 Date created
 29/10/2019
 
-Project Title\
+Project Title
 bikeshare
 
 Introduction
@@ -17,12 +17,6 @@ Features
 Files used
 Three csv files with data for three cities- chicago.csv, new_york_city.csv, washington.csv.
 One python file written to assess the data in the csv files- bikeshare.py.
-
-Resources
-1-Stackoverflow
-2-Python documentation
-3-Tutorials Point
-4-Pandas Documentation.
 
 Resources
 1-Stackoverflow
